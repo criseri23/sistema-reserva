@@ -9,7 +9,7 @@ El proyecto está dividido en 3 capas:
 
 Para la base de datos se utilizó MySQL con XAMPP y la librería MySql.Data.
 
-Hasta el momento se realizaron las opciones 1, 2 y 3 del menú:
+Hasta el momento realice las opciones 1, 2 y 3 del menú:
 
 1. Registrar una nueva reserva.
 2. Cancelar una reserva.
